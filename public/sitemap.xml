@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://dhananjaymonga.vercel.app/</loc>
@@ -9,4 +9,32 @@
     <priority>0.80</priority>
   </url>
   <!-- Add more pages below if needed -->
+</urlset> -->
+
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Homepage -->
+  <url>
+    <loc>https://dhananjaymonga.vercel.app/</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <!-- About Page -->
+  <url>
+    <loc>https://dhananjaymonga.vercel.app/about</loc>
+    <priority>0.80</priority>
+  </url>
+
+  <!-- Projects Page -->
+  <url>
+    <loc>https://dhananjaymonga.vercel.app/projects</loc>
+    <priority>0.80</priority>
+  </url>
+
+  <!-- Contact Page -->
+  <url>
+    <loc>https://dhananjaymonga.vercel.app/contact</loc>
+    <priority>0.80</priority>
+  </url>
 </urlset>
+
